@@ -11,7 +11,7 @@ const Header = () => {
           Choose from a diverse menu featuring a delectable array of dishes
           crafted with the finest ingredients and culinary expertise. Our
           mission is to satisfy your cravings with the and elevate your dining
-          experience, one delicious meal at a time.{' '}
+          experience, one delicious meal at a time.
         </p>
         <button>View Menu</button>
       </div>
