@@ -27,12 +27,12 @@ const Navbar = () => {
         >
           mobile-app
         </li>
-        <l
-          onClick={() => setMenu('contact us')}
-          className={menu === 'contact us' ? 'active' : ''}
+        <li
+          onClick={() => setMenu('contact-us')}
+          className={menu === 'contact-us' ? 'active' : ''}
         >
           contact us
-        </l>
+        </li>
       </ul>
       <div className="navbar-right">
         <img src={assets.search_icon} alt="" />
